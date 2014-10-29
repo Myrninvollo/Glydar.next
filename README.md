@@ -1,11 +1,13 @@
 Glydar
 ==========
 
-An open source Java implementation of Cube World's server.
+An open source Java implementation of Cube World's server in PVP and PVE versions.
 
-**Status:** Clients will connect (if it's the correct version) and be dropped into a world, be welcomed, and entity updates can be sent. There is MultiWorld Support and PVP is almost done!
+**Status:** 
+Clients will connect (if it's the correct version) and be dropped into a world, be welcomed, and entity updates can be sent.
+PVP Server - has pvp working in basic form (No Npcs etc) (29/10/2014)
+PVE Server - all working just like the Orignal Cubeworld Server including NPC's(29/10/2014)
 
-**Snapshot builds** are available at http://ci.lordsofcode.net/view/Glydar/
 
 Building and running
 -----
@@ -23,10 +25,9 @@ If you are using *IntelliJ* or any other Maven-enabled IDE, the project should w
 Special Thanks
 -----
 Mat^2 - structures and data (https://github.com/matpow2/cuwo)
-
 Uwee - packet 13 variables
 
 ---
+and The original Glydar Dev Team.
 
-Questions? Comments? Want to contribute to us? Contact us at <strong> #glydar-dev </strong> on <strong> irc.esper.net </strong>.
 
