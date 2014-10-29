@@ -25,9 +25,15 @@ If you are using *IntelliJ* or any other Maven-enabled IDE, the project should w
 Special Thanks
 -----
 Mat^2 - structures and data (https://github.com/matpow2/cuwo)
+
 Uwee - packet 13 variables
 
 ---
 and The original Glydar Dev Team.
 
+Todo list.
+-----------
+PVP server - add more events for plugins forthings like guilds,CTF,UHC etc and halde all / commands including /name and /namepet
+
+PVE Server - haddle all commands expect /namepet - add more events for plugins to control Players and server
 
